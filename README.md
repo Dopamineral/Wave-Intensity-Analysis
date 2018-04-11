@@ -8,3 +8,5 @@ References:
 
 2. Rakebrandt F. et al. Arterial Wave Intensity and Ventricular-Arterial Coupling by Vascular Ultrasound: Rationale and Methods for the Automated Analysis of Forwards and Backwards Running Waves. Ultrasound in Medicine & Biology. 2009;35(2):266-277.
 
+
+Only operational in conjunction with data-output from non-disclosed in-house software. 
